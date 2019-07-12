@@ -1,0 +1,35 @@
+
+body {
+	background-color: lightgreen;
+}
+#flashy{
+	width: 10%;
+	border:5px solid black;
+	margin: auto;
+	background-color: rgba(0,0,0,.6);
+	box-shadow: 4px 4px 4px black;
+}
+.box{
+	width: 75px; 
+	height: 75px; 
+	border: solid 2px black;
+	margin: 20px auto;
+	border-radius: 50%;
+	background-color: black;
+	}
+#red:hover{
+	background: linear-gradient(to right, #ed213a, #93291e);}
+
+#yellow:hover{
+	background: linear-gradient(to right, #FFFF00, #FFD700);}
+
+#green:hover{
+	background: linear-gradient(to right, #008000, #006400);}
+#post{
+	width: 5%;
+	height: 100px;
+	border: solid 5px black;
+	margin: auto;
+	background-color: black; }
+
+
